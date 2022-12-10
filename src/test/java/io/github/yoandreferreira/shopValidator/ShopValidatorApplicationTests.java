@@ -1,4 +1,4 @@
-package io.github.yoandreferreira.shopvalidator;
+package io.github.yoandreferreira.shopValidator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

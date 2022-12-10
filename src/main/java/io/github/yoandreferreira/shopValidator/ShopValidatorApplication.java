@@ -1,4 +1,4 @@
-package io.github.yoandreferreira.shopvalidator;
+package io.github.yoandreferreira.shopValidator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
